@@ -1,0 +1,6 @@
+framework module Pods_Opendota {
+  umbrella header "Pods-Opendota-umbrella.h"
+
+  export *
+  module * { export * }
+}
